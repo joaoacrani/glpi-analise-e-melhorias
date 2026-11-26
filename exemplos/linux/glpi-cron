@@ -1,0 +1,2 @@
+# Ações automáticas do GLPI pelo cron do sistema (modo CLI). Mude o modo das tarefas para CLI em Configurar > Ações automáticas.
+* * * * * www-data /usr/bin/php /var/www/glpi/front/cron.php
