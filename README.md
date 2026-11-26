@@ -184,3 +184,7 @@ Servidor físico Windows, com o VirtualBox, e uma VM Debian com o GLPI. Para rep
 **O que ficou de fora**
 
 Os scripts originais não estão aqui. O que se pode pegar como referência são as configurações de `exemplos/`, que são genéricas.
+
+## Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE).
