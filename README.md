@@ -1,5 +1,7 @@
 # Análise e Melhorias de um Servidor GLPI
 
+![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green) ![GLPI 12](https://img.shields.io/badge/GLPI%2012-0B6E4F?logo=glpi&logoColor=white) ![Debian 13](https://img.shields.io/badge/Debian%2013-A81D33?logo=debian&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![PHP 8.4](https://img.shields.io/badge/PHP%208.4-777BB4?logo=php&logoColor=white)
+
 ## Sumário
 
 1. [Objetivo](#1-objetivo)
